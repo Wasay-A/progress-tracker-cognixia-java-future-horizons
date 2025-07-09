@@ -7,7 +7,7 @@ import java.sql.SQLException;
 public class ConnectionManager {
     private static final String URL = "jdbc:mysql://localhost:3306/books_progress_tracker_db";
 	private static final String USERNAME = "root";
-	private static final String PASSWORD = "Root123"; // change password if needed, Mac/Linux = Root@123  |  Windows = root
+	private static final String PASSWORD = "Root@123"; // change password if needed, Mac/Linux = Root@123  |  Windows = root
 	
 	private static Connection connection = null;
 	
