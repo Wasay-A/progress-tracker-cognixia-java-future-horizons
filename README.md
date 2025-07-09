@@ -70,3 +70,7 @@ Edit ConnectionManager.java:
 <br>private static final String PASSWORD = "YourMySQLPassword";
 
 ### 5. Build and run
+
+*note: An example login username and password is given to use if you would like:
+      <br> username: test
+      <br> password: test
