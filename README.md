@@ -5,7 +5,7 @@ This program is a simple console-based Java application to track each user’s r
 This was a capstone project given by Cognixia upon the completion of a 4 week training program consisting of Linux, Java, SQL, JDBC, and Gen AI. Thank you Cognixia team!
 Credit and code attribution given to Cognixia team for providing various examples of code usage through notes and assignments!
 
---
+
 
 ## Prerequisites
 
@@ -13,7 +13,7 @@ Credit and code attribution given to Cognixia team for providing various example
 2. **MySQL** running locally (or adjust JDBC URL)  
 3. **Maven** installed  
 
---
+
 
 ## Features
 
@@ -28,7 +28,7 @@ Credit and code attribution given to Cognixia team for providing various example
   - View your own “not started” / “in progress” / “completed” status per book  
   - Update your status on any book
  
---
+
 
 ## Tech Stack
 
@@ -38,14 +38,16 @@ Credit and code attribution given to Cognixia team for providing various example
 - **Patterns:** MVC for UI flow, DAO for data access  
 - **JDBC Driver:** `mysql-connector-java`  
 
---
+
 
 ## Getting Started
 
 ### 1. Clone the repo
 
-For bash:
-git clone https://github.com/<your-username>/books-progress-tracker.git
+In bash:
+git clone https://github.com/<your-username>/progress-tracker-cognixia-java-future-horizons.git
+
+For further assistance on cloning a repo on github, please refer to: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
 
 ### 2. Open in Visual Studio Code
 
