@@ -51,7 +51,11 @@ For further assistance on cloning a repo on github, please refer to: https://doc
 
 ### 2. Open in Visual Studio Code
 
+For further help on Visual Studio Code, please refer to: https://code.visualstudio.com/
+
 ### 3. Log into MySQLWorkbench and run the provided 'books_progress_tracker_db.sql' SQL script
+
+For further help on MySQLWorkbench, please refer to: https://www.mysql.com/products/workbench/
 
 ### 4. Configure your credentials
 
