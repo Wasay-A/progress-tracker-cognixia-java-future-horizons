@@ -60,13 +60,13 @@ For further help on MySQLWorkbench, please refer to: https://www.mysql.com/produ
 ### 4. Configure your credentials
 
 Edit src/main/resources/config.properties:
-url=jdbc:mysql://localhost:3306/books_progress_tracker_db
-username=YourMySQLUsername
-password=YourMySQLPassword
+<br>url=jdbc:mysql://localhost:3306/books_progress_tracker_db
+<br>username=YourMySQLUsername
+<br>password=YourMySQLPassword
 
 Edit ConnectionManager.java:
-private static final String URL = "jdbc:mysql://localhost:3306/books_progress_tracker_db";
-private static final String USERNAME = "YourMySQLUsername";
-private static final String PASSWORD = "YourMySQLPassword";
+<br>private static final String URL = "jdbc:mysql://localhost:3306/books_progress_tracker_db";
+<br>private static final String USERNAME = "YourMySQLUsername";
+<br>private static final String PASSWORD = "YourMySQLPassword";
 
 ### 5. Build and run
