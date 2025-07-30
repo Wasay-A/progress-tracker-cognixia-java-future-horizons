@@ -6,6 +6,10 @@ This was a capstone project given by Cognixia upon the completion of a 4 week tr
 Credit and code attribution given to Cognixia team for providing various examples of code usage through notes and assignments!
 
 
+<img width="492" height="61" alt="Screenshot 2025-07-29 at 4 54 54 PM" src="https://github.com/user-attachments/assets/276c47ef-cdd2-4edd-a1ac-4c2c6c356cfa" />
+
+<img width="250" height="102" alt="Screenshot 2025-07-29 at 4 55 08 PM" src="https://github.com/user-attachments/assets/96bd7bb3-2acd-40b5-a8ad-5c8f4a53bafc" />
+
 
 ## Prerequisites
 
